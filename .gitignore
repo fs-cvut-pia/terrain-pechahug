@@ -6,3 +6,4 @@ Lod.dat
 main.o
 Path.o
 TerrainMap.o
+findpath.exe
